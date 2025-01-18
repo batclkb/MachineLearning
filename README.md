@@ -1,1 +1,1 @@
-This is a modified version of the project I developed in a competition I participated in on Kaggle. It is a Python application that uses machine learning models to predict house prices. Performance comparisons were made using Linear Regression, Random Forest Regressor, and Ridge Regression algorithms in the project. Steps such as data processing, missing data filling, feature selection (RFE), and scaling were applied; MSE and R² metrics were used for evaluation. Libraries such as Pandas, Scikit-Learn, and Matplotlib were used in the development process.
+
